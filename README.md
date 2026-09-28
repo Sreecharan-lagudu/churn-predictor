@@ -2,7 +2,7 @@
 
 > **Will this customer leave? And WHY?** An end-to-end machine learning project that predicts telecom customer churn and explains every individual prediction with SHAP.
 
-**🔗 Live demo:** [sreecharan-churn-predictor.streamlit.app](https://sreecharan-churn-predictor.streamlit.app/) — try the model in your browser
+**🔗 Live demo:** [churn-predictor-eljxvhhaup5s99vgref6oj.streamlit.app](https://churn-predictor-eljxvhhaup5s99vgref6oj.streamlit.app/) — try the model in your browser
 
 ## ✨ What it does
 
