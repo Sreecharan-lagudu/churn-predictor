@@ -16,11 +16,11 @@ Acquiring a new customer costs 5–25× more than retaining one. Predicting *who
 
 Trained on the IBM Telco Customer Churn dataset (7,043 customers, 19 features). Three models compared by cross-validated AUC:
 
-| Model | Hold-out test AUC |
+| Model | AUC (cross-validated) |
 |---|---|
-| Logistic Regression | run `python -m src.train` to fill in |
-| Random Forest | run `python -m src.train` to fill in |
-| XGBoost | run `python -m src.train` to fill in |
+| **Logistic Regression (selected)** | **0.845** (test: 0.842) |
+| Random Forest | 0.824 |
+| XGBoost | 0.835 |
 
 **Key churn drivers found (SHAP):** month-to-month contracts, fiber-optic internet, high monthly charges, short tenure, electronic-check payments.
 
